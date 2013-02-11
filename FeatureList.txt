@@ -1,0 +1,14 @@
+1. Personalized Profiles 
+	- Avatars
+	- Ranks (Points)
+
+2. Teams.
+
+
+3. Open Chats (Non Private).
+
+
+4. Online availability indicator.
+
+
+5. Challenging online opponents.  
